@@ -1,7 +1,3 @@
-# Données volumineuses (MuMiN / Zenodo)
-data/
-*.zip
-
 # Python
 __pycache__/
 *.py[cod]
