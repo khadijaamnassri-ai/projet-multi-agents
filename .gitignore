@@ -1,0 +1,25 @@
+# Données volumineuses (MuMiN / Zenodo)
+data/
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Fichiers temporaires d'analyse
+_*.json
+_tmp*/
